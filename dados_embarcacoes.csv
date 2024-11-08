@@ -1,0 +1,31 @@
+IMO Número,Nome,Tipo,Bandeira,Porto Origem,Porto Destino,Número Contentor,Tipo Carga,Peso (kg),Status
+1234567,Atlantic Breeze,Cargueiro,Brasil,Santos,Lobito,CT001,Alimentos,20000,Em trânsito
+2345678,Pacific Star,Petroleiro,Angola,Lobito,Luanda,CT002,Petróleo,50000,Armazenado
+3456789,Ocean Pioneer,Cargueiro,Espanha,Barcelona,Lobito,CT003,Eletrodomésticos,15000,Despachado
+4567890,Emerald Wave,Graneleiro,Portugal,Lisboa,Lobito,CT004,Cereais,30000,Em trânsito
+5678901,Silver Horizon,Cargueiro,Brasil,Rio de Janeiro,Lobito,CT005,Máquinas,25000,Armazenado
+6789012,Liberty,Petroleiro,Angola,Luanda,Lobito,CT006,Combustível,60000,Despachado
+7890123,Majestic,Cargueiro,China,Shanghai,Lobito,CT007,Têxteis,12000,Em trânsito
+8901234,Gulf Trader,Cargueiro,Itália,Gênova,Lobito,CT008,Automóveis,40000,Armazenado
+9012345,Blue Ocean,Petroleiro,Angola,Lobito,Cabinda,CT009,Gás,55000,Em trânsito
+1234506,Red Sea,Graneleiro,Grécia,Atenas,Lobito,CT010,Minerais,35000,Despachado
+2345017,Sunrise,Cargueiro,Brasil,Recife,Lobito,CT011,Medicamentos,1500,Armazenado
+3456128,Coastal Dream,Cargueiro,Angola,Lobito,Namibe,CT012,Equipamento,27000,Despachado
+4567239,Island Pride,Petroleiro,Noruega,Oslo,Lobito,CT013,Químicos,47000,Em trânsito
+5678340,Seascape,Graneleiro,Canadá,Montreal,Lobito,CT014,Madeira,32000,Armazenado
+6789451,Pacific Quest,Cargueiro,México,Veracruz,Lobito,CT015,Peças automotivas,18000,Despachado
+7890562,Ocean Star,Petroleiro,Angola,Lobito,Soyo,CT016,Petróleo,58000,Em trânsito
+8901673,Arctic Sun,Cargueiro,Suécia,Estocolmo,Lobito,CT017,Produtos eletrônicos,15000,Armazenado
+9012784,Desert Wind,Graneleiro,Emirados Árabes,Dubai,Lobito,CT018,Aço,40000,Despachado
+1234895,Sea Pearl,Cargueiro,Japão,Tóquio,Lobito,CT019,Produtos químicos,25000,Em trânsito
+2345906,Southern Cross,Cargueiro,Austrália,Sydney,Lobito,CT020,Vestuário,13000,Armazenado
+3456017,Viking Pride,Petroleiro,Dinamarca,Copenhague,Lobito,CT021,Combustível,67000,Despachado
+4567128,Celestial,Cargueiro,Angola,Lobito,Benguela,CT022,Alimentos,21000,Em trânsito
+5678239,Explorer,Cargueiro,Estados Unidos,Nova York,Lobito,CT023,Eletrodomésticos,20000,Armazenado
+6789340,Harbor King,Cargueiro,França,Marselha,Lobito,CT024,Ferramentas,28000,Despachado
+7890451,Nautilus,Petroleiro,Rússia,São Petersburgo,Lobito,CT025,Petróleo,50000,Em trânsito
+8901562,Aurora,Graneleiro,Argentina,Buenos Aires,Lobito,CT026,Grãos,30000,Armazenado
+9012673,Sea Voyager,Cargueiro,China,Hong Kong,Lobito,CT027,Roupas,17000,Despachado
+1233784,Odyssey,Petroleiro,Angola,Lobito,Cabinda,CT028,Combustível,60000,Em trânsito
+2344895,Atlantic Spirit,Graneleiro,Brasil,Salvador,Lobito,CT029,Café,12000,Armazenado
+3455906,Liberty Belle,Cargueiro,Canadá,Vancouver,Lobito,CT030,Papéis,22000,Despachado
